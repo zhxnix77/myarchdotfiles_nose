@@ -15,4 +15,4 @@ En pocas palabras: _pues no es la gran cosa esta configuracion._
 |**Kitty**                   |Disponible en la mayoria de distros                    |
 |**Waybar**                    |Disponible en la mayoria de distros                    |
 
-![Captura de pantalla del escritorio (Tiling Manager o Gestor de ventanas en mosaico)](1.png)
+![Captura de pantalla del escritorio (Tiling Manager o Gestor de ventanas en mosaico)](2.png)
